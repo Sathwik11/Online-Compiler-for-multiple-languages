@@ -1,0 +1,10 @@
+file.c: In function 'main':
+file.c:6:5: error: redeclaration of 'i' with no linkage
+ int i=2;
+     ^
+file.c:5:12: note: previous declaration of 'i' was here
+ static int i;
+            ^
+file.c:12:1: warning: 'return' with a value, in function returning void [enabled by default]
+ return 0;
+ ^

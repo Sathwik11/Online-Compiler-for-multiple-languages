@@ -1,0 +1,12 @@
+int call(int address)
+x=call(main);
+address++;
+static main;
+{
+return address;
+int x;
+printf("%d ",x);
+{
+}
+void main()
+}

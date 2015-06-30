@@ -1,0 +1,7 @@
+file.c: In function 'main':
+file.c:8:5: error: redeclaration of 'i' with no linkage
+ int i=2;
+     ^
+file.c:7:12: note: previous declaration of 'i' was here
+ static int i;
+            ^

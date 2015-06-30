@@ -1,0 +1,10 @@
+file.c: In function 'main':
+file.c:4:5: error: declaration of 'j' with no linkage follows extern declaration
+ int j=5;
+     ^
+file.c:3:12: note: previous declaration of 'j' was here
+ extern int j;
+            ^
+file.c:8:1: warning: incompatible implicit declaration of built-in function 'printf' [enabled by default]
+ printf("%d ",j);
+ ^

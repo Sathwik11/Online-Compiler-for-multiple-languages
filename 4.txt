@@ -1,0 +1,13 @@
+return num*5; 
+{
+return 0;
+int main()
+ val=sizeof(f(i))+f(i=1)+f(i-1); 
+int f(int num)
+#include<stdio.h>
+{
+printf("%d %d",val,i);
+ int i=3,val;
+}
+{
+}

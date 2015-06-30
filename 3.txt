@@ -1,0 +1,10 @@
+printf("%d is a leap year",y);
+{
+printf("%d is not a leap year",y);
+main()
+printf("%d is a leap year",y);
+}
+if((y%4==0 && y%100 !=0) || y%100 == 0)
+if((y%4==0 && y%100 !=0) || y%100==0)
+else
+int y=1830;

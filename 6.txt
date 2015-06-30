@@ -1,0 +1,10 @@
+j++;
+int i=0;
+}
+void main(){
+printf("%d ",j);
+extern int j;
+int j=5;
+int j=25;
+}
+for(i=0;i<=2;i+=1){
